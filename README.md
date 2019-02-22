@@ -1,4 +1,105 @@
-## Welcome to GitHub Pages
+## Welcome to my page
+
+A few thigs i like:
+You may see some of the videos i made on [my youtube page](https://www.youtube.com/channel/UCkrU3IjhL11GN5LQl-9duow?view_as=subscriber) .
+
+# Session de freeride
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AjRIHjDKq8I
+" target="_blank"><img src="http://img.youtube.com/vi/AjRIHjDKq8I/0.jpg" 
+alt="Session de poudreuse à Val Thorens" width="240" height="180" border="10" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ldnpub/ldnpub.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
