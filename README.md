@@ -1,12 +1,17 @@
 # Welcome to my page
 
-A few thigs i like:
+A few things i like:
 You may see some of the videos i made on [my youtube page](https://www.youtube.com/channel/UCkrU3IjhL11GN5LQl-9duow?view_as=subscriber).
 
+## SKI
 ### Session de freeride à Val Thorens
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AjRIHjDKq8I
 " target="_blank"><img src="http://img.youtube.com/vi/AjRIHjDKq8I/0.jpg" 
 alt="Session de poudreuse à Val Thorens" width="240" height="180" border="10" /></a>
+
+## Ubuntu and free softwares
+
+A few things about me on my launchpad [profile](https://launchpad.net/~ldnpub)
 
 &nbsp;
 
