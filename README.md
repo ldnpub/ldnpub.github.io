@@ -13,6 +13,10 @@ alt="Session de poudreuse à Val Thorens" width="240" height="180" border="10" /
 
 A few things about me on my launchpad [profile](https://launchpad.net/~ldnpub)
 
+## Cool Projects
+
+[MkDocs](https://www.mkdocs.org/)
+
 &nbsp;
 
 &nbsp;
